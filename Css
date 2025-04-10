@@ -1,0 +1,13 @@
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  input:focus {
+    outline: none;
+    box-shadow: 0 0 0 2px #ff0000;
+  }
+  
+  #resultado {
+    transition: all 0.3s ease-in-out;
+  }
+  
